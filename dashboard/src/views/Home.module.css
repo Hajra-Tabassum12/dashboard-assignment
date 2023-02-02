@@ -1,0 +1,36 @@
+
+.main{
+    margin-top: 20vh;
+    margin-left: 30vh;
+    width: 160vh;
+    height: 70vh;
+    background-color: rgb(248, 245, 245);
+    border: 2px solid  rgb(229, 240, 244);
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: 70vh;
+    white-space:nowrap;
+    /* white-space: nowrap; */
+  
+}
+.btn{
+    margin-left: 140vh;
+    padding: 3px 5px;
+    border-radius: 6px;
+    border: none;
+    color: rgb(23, 142, 182);
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

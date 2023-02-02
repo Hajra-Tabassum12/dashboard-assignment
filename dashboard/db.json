@@ -1,0 +1,8 @@
+{
+    "employes": [
+      { "id": 1, "name": "ibrahim", "age": "26","designation":"SDE","salary":2000 },
+      { "id": 2, "name": "ibrahim", "age": "26","designation":"SDE","salary":2000 },
+      { "id": 3, "name": "ibrahim", "age": "26","designation":"SDE","salary":2000 },
+      { "id": 4, "name": "ibrahim", "age": "26","designation":"SDE","salary":2000 }
+    ]
+  }
